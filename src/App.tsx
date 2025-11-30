@@ -461,7 +461,7 @@ const PhysicsRecruitmentTemplate = () => {
 
         {/* Contact Footer */}
         <div className="bg-gradient-to-r from-indigo-600 to-purple-600 rounded-2xl shadow-xl p-8 mt-6 text-white">
-          <h2 className="text-2xl font-bold mb-4">Connect With Us</h2>
+          <h2 className="text-2xl font-bold mb-4">Connect With Us :</h2>
           <div className="grid md:grid-cols-3 gap-6">
             <div className="flex items-center gap-3">
               <Mail size={24} />
