@@ -474,7 +474,7 @@ const PhysicsRecruitmentTemplate = () => {
               <Phone size={24} />
               <div>
                 <div className="text-sm opacity-80">Phone</div>
-                <div className="font-semibold">0261 2201771</div>
+                <div className="font-semibold">+91 99043 34220</div>
               </div>
             </div>
             <div className="flex items-center gap-3">
